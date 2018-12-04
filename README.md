@@ -21,9 +21,15 @@ http://rinkeby-faucet.com/
     $ npm install --save solc@^0.4.19
     $ node compile.js
     
+<br/>
 
+    $ npm install --save mocha@^4.0.1 ganache-cli@^6.0.3 web3@^1.0.0-beta.26
 
+<br/>
 
+### 18. Deployed Inbox Overview
+
+    $ npm run test
 
 
 ---
