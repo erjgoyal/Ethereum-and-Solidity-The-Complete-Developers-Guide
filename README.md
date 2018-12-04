@@ -4,6 +4,8 @@
 https://github.com/StephenGrider/EthereumCasts
 
 
+Chrome --> metamask plugin
+
 http://rinkeby-faucet.com/
 
 
@@ -38,6 +40,29 @@ http://rinkeby-faucet.com/
 <br/>
 
 ### 22. Testing Message Updates
+
+<br/>
+
+### 24. Infura Signup
+
+https://infura.io/
+
+<br/>
+
+### 25. Wallet Provider Setup
+
+    $ npm install --save truffle-hdwallet-provider
+
+<br/>
+
+### 27. Observing Deployment on Etherscan
+
+http://rinkeby.etherscan.io
+
+
+<br/>
+
+### 28. Deployed Contracts in Remix
 
 ---
 
