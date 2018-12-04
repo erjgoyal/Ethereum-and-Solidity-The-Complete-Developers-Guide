@@ -35,6 +35,10 @@ http://rinkeby-faucet.com/
 
 ### 21. Verifying the Initial Message
 
+<br/>
+
+### 22. Testing Message Updates
+
 ---
 
 **Marley**
