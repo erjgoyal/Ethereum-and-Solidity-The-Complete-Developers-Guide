@@ -31,6 +31,9 @@ http://rinkeby-faucet.com/
 
     $ npm run test
 
+<br/>
+
+### 21. Verifying the Initial Message
 
 ---
 
