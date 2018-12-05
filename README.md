@@ -75,6 +75,11 @@ http://rinkeby.etherscan.io
 
         $ cp -R 01-inbox/ 02-lottery
 
+<br/>
+
+### 21. Test Project Updates
+
+
 ---
 
 **Marley**
