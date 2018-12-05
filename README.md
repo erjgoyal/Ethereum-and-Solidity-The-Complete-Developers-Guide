@@ -73,12 +73,21 @@ http://rinkeby.etherscan.io
 
 ### 20. New Test Setup
 
-        $ cp -R 01-inbox/ 02-lottery
+    $ cp -R 01-inbox/ 02-lottery
 
 <br/>
 
 ### 21. Test Project Updates
 
+<br/>
+
+### 23. Asserting Deployment
+
+    $ npm run test
+
+<br/>
+
+### 28. End to End Test
 
 ---
 
