@@ -8,6 +8,7 @@ Chrome --> metamask plugin
 
 http://rinkeby-faucet.com/
 
+http://remix.ethereum.org
 
     $ cd /project/01-inbox/
     $ npm init -y
@@ -63,6 +64,16 @@ http://rinkeby.etherscan.io
 <br/>
 
 ### 28. Deployed Contracts in Remix
+
+<br/>
+
+## 03. Advanced Smart Contracts
+
+<br/>
+
+### 20. New Test Setup
+
+        $ cp -R 01-inbox/ 02-lottery
 
 ---
 
