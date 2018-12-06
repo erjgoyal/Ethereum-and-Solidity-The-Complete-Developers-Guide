@@ -100,6 +100,12 @@ http://rinkeby.etherscan.io
 
     $ npm install --save web3@^1.0.0-beta.26
 
+<br/>
+
+### 05. Web3 Setup
+
+    $ npm run start
+
 ---
 
 **Marley**
