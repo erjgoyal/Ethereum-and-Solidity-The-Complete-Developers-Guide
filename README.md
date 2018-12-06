@@ -89,6 +89,17 @@ http://rinkeby.etherscan.io
 
 ### 28. End to End Test
 
+<br/>
+
+## 04. Building Interactive Front-Ends
+
+<br/>
+
+    $ cd 03-lettery-react/
+    $ npx create-react-app .
+
+    $ npm install --save web3@^1.0.0-beta.26
+
 ---
 
 **Marley**
